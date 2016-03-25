@@ -6,7 +6,7 @@
 set -e
 set -x
 
-VERSION=`git describe --always`-linux-x86
+VERSION=pebbledev-linux-x86
 DEST=dist/$VERSION
 
 rm -rf $DEST
