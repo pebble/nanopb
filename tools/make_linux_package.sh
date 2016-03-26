@@ -6,7 +6,7 @@
 set -e
 set -x
 
-VERSION=pebbledev-linux-x86
+VERSION=nanopb-pebbledev-linux-x86
 DEST=dist/$VERSION
 
 rm -rf $DEST
